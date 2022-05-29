@@ -1,2 +1,2 @@
 # simple_programs
-Clearn python programs
+Clean python examples for common use programs
